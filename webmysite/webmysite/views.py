@@ -8,5 +8,5 @@ def about(request):
     return HttpResponse("<h1>hello arafat</h1>")
 
 def about(request):
-    return HttpResponse("about hello arafat")
+    return HttpResponse("about hello arafat01")
 
